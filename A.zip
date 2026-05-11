@@ -1,0 +1,916 @@
+================================================================================
+「人工知能（AI）」の定義 国際比較調査
+― 主要国・地域・国際機関の最新公式定義（2026年5月時点） ―
+================================================================================
+
+調査範囲：国際機関・多国間枠組み／北米／欧州／アジア太平洋
+調査基準日：2026年5月10日
+凡例：◎拘束力あり（ハードロー） ／ ○非拘束（ソフトロー・ガイドライン）
+
+
+================================================================================
+第1部 国際機関・多国間枠組み
+================================================================================
+
+───────────────────────────────────────────────────────────────────────────────
+【1-1】OECD（経済協力開発機構）  ○ソフトロー
+───────────────────────────────────────────────────────────────────────────────
+■ 参照ドキュメント
+   Recommendation of the Council on Artificial Intelligence
+   （OECD/LEGAL/0449）
+   2019年5月22日採択／2023年11月8日定義改訂／2024年5月3日再改訂
+
+■ 章番号・項番号
+   Section I（"AGREES that for the purpose of this Recommendation
+   the following terms should be understood as follows"）
+
+■ 原文（英語）
+   "An AI system is a machine-based system that, for explicit or implicit
+   objectives, infers, from the input it receives, how to generate outputs
+   such as predictions, content, recommendations, or decisions that can
+   influence physical or virtual environments. Different AI systems vary
+   in their levels of autonomy and adaptiveness after deployment."
+
+■ 日本語訳（厳密訳）
+   「AIシステムとは、明示的又は黙示的な目的のために、機械を基盤とする
+   システム（machine-based system）であって、受け取った入力から、物理的
+   環境又は仮想環境に影響を与え得る予測、コンテンツ、推奨又は決定等の
+   出力をいかに生成するかを推論する（infer）ものをいう。AIシステムは、
+   その配備後の自律性（autonomy）及び適応性（adaptiveness）の水準に
+   おいて異なる。」
+
+■ 公式ソース
+   https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449
+
+■ 注記
+   2023年改訂で「content（コンテンツ）」を追加し生成AIに対応。
+   "real" → "physical" に置換、"after deployment" を追加し継続学習を反映。
+   事実上の国際標準（de facto global standard）として機能。
+
+
+───────────────────────────────────────────────────────────────────────────────
+【1-2】UNESCO（国連教育科学文化機関）  ○ソフトロー
+───────────────────────────────────────────────────────────────────────────────
+■ 参照ドキュメント
+   Recommendation on the Ethics of Artificial Intelligence
+   2021年11月23日、第41回総会全193加盟国で全会一致採択
+
+■ 章番号・項番号
+   Para. 2（I. Scope of application）
+
+■ 原文（英語）
+   "This Recommendation does not have the ambition to provide one single
+   definition of AI, since such a definition would need to change over
+   time, in accordance with technological developments. Rather, its
+   ambition is to address those features of AI systems that are of central
+   ethical relevance. Therefore, this Recommendation approaches AI systems
+   as systems which have the capacity to process data and information in
+   a way that resembles intelligent behaviour, and typically includes
+   aspects of reasoning, learning, perception, prediction, planning or
+   control."
+
+■ 日本語訳（厳密訳）
+   「本勧告はAIの単一の定義を提示することを意図しない。当該定義は技術
+   発展に応じて時とともに変化を要するためである。むしろ本勧告の意図は、
+   倫理的に中心的関連性を有するAIシステムの特性を取り扱うことにある。
+   したがって本勧告は、AIシステムを、知的な行動に類似する仕方でデータ
+   及び情報を処理する能力を有するシステムとして取り扱い、典型的には
+   推論、学習、知覚、予測、計画又は制御の側面を含むものとする。」
+
+■ 公式ソース
+   https://www.unesco.org/en/legal-affairs/recommendation-ethics-artificial-intelligence
+
+■ 注記
+   意図的に「単一定義を提示しない」と宣言。倫理的関連性に基づく
+   feature-based の描写を採用。
+
+
+───────────────────────────────────────────────────────────────────────────────
+【1-3】ISO/IEC（国際標準化機構／国際電気標準会議）  ○国際標準
+───────────────────────────────────────────────────────────────────────────────
+■ 参照ドキュメント
+   ISO/IEC 22989:2022
+   "Information technology — Artificial intelligence —
+    Concepts and terminology"
+   2022年7月18日発行
+
+■ 章番号・項番号
+   Clause 3.1.4（Terms related to artificial intelligence）
+
+■ 原文（英語）
+   "artificial intelligence system, AI system: engineered system that
+   generates outputs such as content, forecasts, recommendations or
+   decisions for a given set of human-defined objectives.
+   Note 1 to entry: The engineered system can use various techniques and
+   approaches related to artificial intelligence to develop a model to
+   represent data, knowledge, processes, etc. which can be used to conduct
+   tasks.
+   Note 2 to entry: AI systems are designed to operate with varying levels
+   of automation."
+
+■ 日本語訳（厳密訳）
+   「**人工知能システム（AIシステム）**：人間が定義した所与の目標の集合
+   （human-defined objectives）に対して、コンテンツ、予測、推奨又は決定
+   等の出力を生成する工学的システム（engineered system）をいう。
+   注釈1：当該工学的システムは、AIに関連する様々な技法及びアプローチを
+   用いて、タスク遂行に使用可能なデータ、知識、プロセス等を表現する
+   モデルを開発し得る。
+   注釈2：AIシステムは、様々なレベルの自動化をもって動作するように
+   設計される。」
+
+■ 公式ソース
+   https://www.iso.org/standard/74296.html
+   https://www.iso.org/obp/ui/#iso:std:iso-iec:22989:ed-1:v1:en
+
+■ 注記
+   日本ではJIS X 22989:2023として国内規格化。
+   ISO/IEC 42001（AIマネジメントシステム）等の関連規格の用語的基盤。
+
+
+───────────────────────────────────────────────────────────────────────────────
+【1-4】G7（広島AIプロセス）  ○ソフトロー
+───────────────────────────────────────────────────────────────────────────────
+■ 参照ドキュメント
+   Hiroshima Process International Guiding Principles for Organizations
+   Developing Advanced AI Systems
+   及び International Code of Conduct for Organizations Developing
+   Advanced AI Systems
+   2023年10月30日 G7首脳合意／2023年12月「広島AIプロセス包括的政策枠組み」
+
+■ 章番号・項番号
+   Preamble（前文）
+
+■ 原文（英語）
+   "...the most advanced AI systems, including the most advanced
+   foundation models and generative AI systems (henceforth 'advanced AI
+   systems').... This non-exhaustive list of guiding principles is
+   discussed and elaborated as a living document to build on the existing
+   OECD AI Principles..."
+
+■ 日本語訳（厳密訳）
+   「…最先端の基盤モデル（foundation models）及び生成AIシステムを含む
+   最も高度なAIシステム（以下『高度なAIシステム（advanced AI systems）』
+   という）。…本指針の非網羅的なリストは、既存のOECD AI原則の上に
+   構築されるリビング・ドキュメントとして議論・精緻化される。」
+
+■ 公式ソース
+   https://www.mofa.go.jp/files/100573471.pdf （外務省）
+   https://digital-strategy.ec.europa.eu/en/library/hiroshima-process-international-guiding-principles-advanced-ai-system
+
+■ 注記
+   AIの基底定義はOECD定義に依拠。「高度なAIシステム」概念を新設。
+   2024年12月、国際行動規範遵守の「報告枠組み」をG7で合意。
+
+
+───────────────────────────────────────────────────────────────────────────────
+【1-5】国連システム（UN System）  ○ソフトロー
+───────────────────────────────────────────────────────────────────────────────
+■ 参照ドキュメント
+   Principles for the Ethical Use of Artificial Intelligence in the
+   United Nations System
+   （HLCP/CEB、2022年9月20日承認）
+   及び Governing AI for Humanity（AI諮問機関最終報告、2024年9月）
+
+■ 章番号・項番号
+   Para. 1 脚注
+
+■ 原文（英語）
+   UNESCO勧告の定義を参照：
+   "systems which have the capacity to process information in a way that
+   resembles intelligent behaviour"
+
+■ 日本語訳
+   UNESCO勧告の定義を国連システム共通の参照定義として援用。
+
+■ 公式ソース
+   https://unsceb.org/sites/default/files/2022-09/Principles%20for%20the%20Ethical%20Use%20of%20AI%20in%20the%20UN%20System_1.pdf
+   https://www.un.org/ai-advisory-body
+
+
+================================================================================
+第2部 北米（米国・カナダ）
+================================================================================
+
+───────────────────────────────────────────────────────────────────────────────
+【2-1】米国連邦法  ◎拘束力あり（米国法上の法定定義）
+───────────────────────────────────────────────────────────────────────────────
+■ 参照ドキュメント
+   15 U.S.C. § 9401(3)
+   National Artificial Intelligence Initiative Act of 2020
+   （Pub. L. 116-283、2021年1月1日施行）
+   現行米国法の法定定義。EO 14179（2025年1月23日）でも本条を採用。
+
+■ 章番号・項番号
+   Title 15, Chapter 119, §9401(3)
+
+■ 原文（英語）
+   "The term 'artificial intelligence' means a machine-based system that
+   can, for a given set of human-defined objectives, make predictions,
+   recommendations or decisions influencing real or virtual environments.
+   Artificial intelligence systems use machine and human-based inputs to—
+   (A) perceive real and virtual environments;
+   (B) abstract such perceptions into models through analysis in an
+       automated manner; and
+   (C) use model inference to formulate options for information or
+       action."
+
+■ 日本語訳（厳密訳）
+   「『人工知能』とは、人間が定義した目的の集合に対して、現実の又は仮想
+   の環境に影響を与える予測、推奨又は決定を行うことができる、機械を
+   基盤とするシステム（machine-based system）をいう。AIシステムは、
+   機械及び人間の入力を用いて、
+   (A) 現実及び仮想環境を知覚し（perceive）、
+   (B) 当該知覚を自動化された方法による分析を通じてモデルに抽象化し
+       （abstract）、
+   (C) モデルによる推論を用いて情報又は行動の選択肢を構成する
+       （formulate）。」
+
+■ 公式ソース
+   https://uscode.house.gov/view.xhtml?req=(title:15%20section:9401)
+
+
+───────────────────────────────────────────────────────────────────────────────
+【2-2】NIST（米国国立標準技術研究所）  ○ソフトロー
+───────────────────────────────────────────────────────────────────────────────
+■ 参照ドキュメント
+   NIST AI Risk Management Framework 1.0
+   （NIST AI 100-1）
+   2023年1月26日公表
+
+■ 章番号・項番号
+   Section 1（Framing Risk）等／Appendix A・B
+
+■ 原文（英語）
+   "An AI system is an engineered or machine-based system that can, for a
+   given set of objectives, generate outputs such as predictions,
+   recommendations, or decisions influencing real or virtual environments.
+   AI systems are designed to operate with varying levels of autonomy
+   [Adapted from: OECD Recommendation on AI:2019; ISO/IEC 22989:2022]."
+
+■ 日本語訳（厳密訳）
+   「AIシステムとは、所与の目的の集合に対して、現実の又は仮想の環境に
+   影響を与える予測、推奨又は決定等の出力を生成し得る、工学的又は機械を
+   基盤とするシステム（engineered or machine-based system）をいう。
+   AIシステムは、様々な水準の自律性をもって動作するように設計される
+   ［OECD AI勧告（2019年）及びISO/IEC 22989:2022から派生］。」
+
+■ 公式ソース
+   https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf
+   https://airc.nist.gov/airmf-resources/airmf/
+
+■ 注記
+   2025年7月23日「AI Action Plan」により、NISTにRMFの改訂が指示された
+   （DEI・気候変動・ミスインフォメーション関連の言及削除）。
+   生成AI向け補完文書として NIST AI 600-1（GAI Profile）が
+   2024年7月公表。
+
+
+───────────────────────────────────────────────────────────────────────────────
+【2-3】米国 旧大統領令 EO 14110  （撤回済）
+───────────────────────────────────────────────────────────────────────────────
+■ 参照ドキュメント
+   Executive Order 14110
+   "Safe, Secure, and Trustworthy Development and Use of Artificial
+   Intelligence"
+   2023年10月30日署名／2025年1月20日 EO 14148で撤回
+
+■ 章番号・項番号
+   Section 3(b)
+
+■ 原文（英語）
+   "The term 'artificial intelligence' or 'AI' has the meaning set forth
+   in 15 U.S.C. 9401(3)."
+
+■ 日本語訳
+   「『人工知能』又は『AI』の用語は、15 U.S.C. § 9401(3)に定める意義を
+   有する。」（連邦法定義に従属）
+
+■ 公式ソース
+   https://www.federalregister.gov/documents/2023/11/01/2023-24283
+
+
+───────────────────────────────────────────────────────────────────────────────
+【2-4】米国 現行大統領令 EO 14179  ◎拘束力あり
+───────────────────────────────────────────────────────────────────────────────
+■ 参照ドキュメント
+   Executive Order 14179
+   "Removing Barriers to American Leadership in Artificial Intelligence"
+   2025年1月23日署名
+
+■ 章番号・項番号
+   Section 2 等
+
+■ 原文（英語）
+   15 U.S.C. § 9401(3) を引き続き援用。EO 14110は撤回。
+
+■ 日本語訳
+   米国法定義に依拠。AI政策の方向性は「米国のグローバルAI支配の維持・
+   強化（sustain and enhance America's global AI dominance）」へ転換。
+
+■ 公式ソース
+   https://www.federalregister.gov/documents/2025/01/31/2025-02172
+
+
+───────────────────────────────────────────────────────────────────────────────
+【2-5】カナダ 政府指令  ◎拘束力あり（連邦政府機関対象）
+───────────────────────────────────────────────────────────────────────────────
+■ 参照ドキュメント
+   Treasury Board of Canada Secretariat
+   Directive on Automated Decision-Making
+   2019年4月1日施行／2023年4月25日改訂（第3次見直し）
+
+■ 章番号・項番号
+   Appendix A（Definitions）
+
+■ 原文（英語）
+   "Automated decision system: Any technology that either assists or
+   replaces the judgment of human decision makers. These systems draw
+   from fields like statistics, linguistics and computer science, and
+   use techniques such as rules-based systems, regression, predictive
+   analytics, machine learning, deep learning, and neural networks."
+
+■ 日本語訳（厳密訳）
+   「**自動意思決定システム（Automated Decision System）**：人間の意思
+   決定者の判断を補助又は代替する一切の技術をいう。当該システムは、
+   統計学、言語学、計算機科学等の分野に由来し、ルールベースシステム、
+   回帰分析、予測分析、機械学習、深層学習、ニューラルネットワーク等の
+   手法を用いる。」
+
+■ 公式ソース
+   https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32592
+
+■ 注記
+   連邦政府機関による行政決定への適用（CRAは適用除外）。
+   Algorithmic Impact Assessment（AIA）の事前実施を義務化。
+
+
+================================================================================
+第3部 欧州（EU・英国・欧州評議会）
+================================================================================
+
+───────────────────────────────────────────────────────────────────────────────
+【3-1】EU（欧州連合）AI Act  ◎拘束力あり（規則・直接効力）
+───────────────────────────────────────────────────────────────────────────────
+■ 参照ドキュメント
+   Regulation (EU) 2024/1689 of the European Parliament and of the
+   Council of 13 June 2024 laying down harmonised rules on artificial
+   intelligence (Artificial Intelligence Act)
+   官報掲載：2024年7月12日／発効：2024年8月1日／段階的適用開始
+
+■ 章番号・項番号
+   Article 3(1)
+
+■ 原文（英語、官報確定版）
+   "'AI system' means a machine-based system that is designed to operate
+   with varying levels of autonomy and that may exhibit adaptiveness
+   after deployment, and that, for explicit or implicit objectives,
+   infers, from the input it receives, how to generate outputs such as
+   predictions, content, recommendations, or decisions that can influence
+   physical or virtual environments."
+
+■ 日本語訳（厳密訳）
+   「『AIシステム』とは、機械を基盤とするシステムであって、様々な水準の
+   自律性をもって動作するように設計され、配備後に適応性を示し得るもの
+   であり、かつ、明示的又は黙示的な目的のために、受け取った入力から、
+   物理的環境又は仮想環境に影響を与え得る予測、コンテンツ、推奨又は
+   決定等の出力をいかに生成するかを推論するものをいう。」
+
+■ 公式ソース
+   https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401689
+
+
+───────────────────────────────────────────────────────────────────────────────
+【3-2】EU AI Act（汎用AIモデル）  ◎拘束力あり
+───────────────────────────────────────────────────────────────────────────────
+■ 参照ドキュメント
+   Regulation (EU) 2024/1689
+
+■ 章番号・項番号
+   Article 3(63)
+
+■ 原文（英語）
+   "'general-purpose AI model' means an AI model, including where such an
+   AI model is trained with a large amount of data using self-supervision
+   at scale, that displays significant generality and is capable of
+   competently performing a wide range of distinct tasks regardless of
+   the way the model is placed on the market and that can be integrated
+   into a variety of downstream systems or applications, except AI models
+   that are used for research, development or prototyping activities
+   before they are placed on the market."
+
+■ 日本語訳（厳密訳）
+   「『汎用AIモデル（general-purpose AI model）』とは、大規模な自己教師
+   あり学習による大量データで訓練されたAIモデルを含み、顕著な汎用性
+   （significant generality）を示し、市場への投入方法の如何を問わず、
+   広範な範囲の異なるタスクを的確に遂行することが可能であり、多様な
+   下流システム又はアプリケーションに統合され得るAIモデルをいう。
+   ただし、市場投入前の研究、開発又はプロトタイピング活動に用いられる
+   AIモデルを除く。」
+
+■ 公式ソース
+   https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401689
+
+■ 注記
+   第51条で「システミックリスクを伴うGPAIモデル」を10^25 FLOPS以上の
+   累積訓練計算量で画定し、二段階規律（two-tier）を導入。
+
+
+───────────────────────────────────────────────────────────────────────────────
+【3-3】英国 DSIT  ○ソフトロー（プリンシプル・ベース）
+───────────────────────────────────────────────────────────────────────────────
+■ 参照ドキュメント
+   Department for Science, Innovation and Technology (DSIT)
+   "A pro-innovation approach to AI regulation"（白書、CP 815）
+   2023年3月29日公表／政府応答 2024年2月6日
+
+■ 章番号・項番号
+   Section 3.2.1（Defining AI）／paras. 38-42
+
+■ 原文（英語）
+   "We define AI by reference to the two characteristics that generate
+   the need for a bespoke regulatory response. These characteristics are:
+   - Adaptivity: AI systems are 'trained' – once or continuously – and
+     operate by inferring patterns and connections in data which are
+     often not easily discernible to humans.
+   - Autonomy: Some AI systems can make decisions without the express
+     intent or ongoing control of a human."
+
+■ 日本語訳（厳密訳）
+   「我々は、特注の規制対応を必要とする2つの特性に基づきAIを画定する。
+   当該特性とは：
+   ・**適応性（Adaptivity）**：AIシステムは『訓練』され（一度限り又は
+   継続的に）、人間にとって容易に識別困難なデータ中のパターン及び関係を
+   推論することにより動作する。
+   ・**自律性（Autonomy）**：一部のAIシステムは、人間の明示的意図又は
+   継続的制御なしに決定を行い得る。」
+
+■ 公式ソース
+   https://www.gov.uk/government/publications/ai-regulation-a-pro-innovation-approach/white-paper
+
+■ 注記
+   単一の法的定義を採用せず、機能的特性で画定。
+   既存規制当局（ICO、FCA、CMA等）を活用する分野別アプローチ。
+
+
+───────────────────────────────────────────────────────────────────────────────
+【3-4】欧州評議会（CoE）AI条約  ◎拘束力あり（国際条約）
+───────────────────────────────────────────────────────────────────────────────
+■ 参照ドキュメント
+   Council of Europe Framework Convention on Artificial Intelligence
+   and Human Rights, Democracy and the Rule of Law
+   （CETS No. 225）
+   2024年5月17日採択／9月5日署名開放
+   ※AIに関する世界初の法的拘束力のある国際条約
+
+■ 章番号・項番号
+   Article 2（Definition of artificial intelligence systems）
+
+■ 原文（英語）
+   "For the purposes of this Convention, 'artificial intelligence system'
+   means a machine-based system that, for explicit or implicit
+   objectives, infers, from the input it receives, how to generate
+   outputs such as predictions, content, recommendations or decisions
+   that may influence physical or virtual environments. Different
+   artificial intelligence systems vary in their levels of autonomy and
+   adaptiveness after deployment."
+
+■ 日本語訳（厳密訳）
+   「本条約において、『人工知能システム（artificial intelligence
+   system）』とは、明示的又は黙示的な目的のために、機械を基盤とする
+   システムであって、受け取った入力から、物理的環境又は仮想環境に
+   影響を与え得る予測、コンテンツ、推奨又は決定等の出力をいかに生成
+   するかを推論するものをいう。AIシステムは、その配備後の自律性及び
+   適応性の水準において異なる。」
+
+■ 公式ソース
+   https://www.coe.int/en/web/artificial-intelligence/the-framework-convention-on-artificial-intelligence
+   https://rm.coe.int/1680afae3c
+
+■ 注記
+   OECD・EU AI Actとほぼ同一文言で意図的に整合化（"can"→"may"の微差）。
+   第15条で人権・民主主義・法の支配の3軸での影響評価義務を独自要件化。
+
+
+================================================================================
+第4部 アジア太平洋（日本・シンガポール・中国・韓国）
+================================================================================
+
+───────────────────────────────────────────────────────────────────────────────
+【4-1】日本 AI推進法  ◎拘束力あり（基本法）
+───────────────────────────────────────────────────────────────────────────────
+■ 参照ドキュメント
+   人工知能関連技術の研究開発及び活用の推進に関する法律
+   （令和7年法律第53号、通称「AI推進法」）
+   2025年5月28日成立／6月4日公布／一部即日施行
+   2025年9月1日全面施行（AI戦略本部の設置）
+
+■ 章番号・項番号
+   第2条（定義）
+
+■ 原文（日本語）
+   「この法律において、『人工知能関連技術』とは、人工的な方法により人間
+   の認知、推論及び判断に係る知的な能力を代替する機能を実現するために
+   必要な技術並びに入力された情報を当該技術を利用して処理し、その結果を
+   出力する機能を実現するための情報処理システムに関する技術をいう。」
+
+■ 注記（公式英訳の参考訳）
+   "In this Act, 'AI-related technology' means technologies necessary to
+   realize functions that artificially substitute for the human
+   intellectual abilities related to cognition, inference and judgment,
+   as well as technologies related to information processing systems
+   that realize the function of processing inputted information using
+   such technologies and outputting the results thereof."
+
+■ 公式ソース
+   https://laws.e-gov.go.jp/law/507AC0000000053
+   https://www8.cao.go.jp/cstp/ai/ai_act/ai_act.html
+
+■ 注記
+   日本初のAI関連法。基本法的性格で罰則規制を伴わず、活用事業者に対する
+   国の指導・助言・情報提供等の根拠となる（第16条）。
+   城内大臣の国会答弁により、機械学習・深層学習・自然言語処理・電子
+   透かし・ガードレール技術等を含む広範な対象を意図したことが確認。
+   定義はEU AI Actより広範。
+
+
+───────────────────────────────────────────────────────────────────────────────
+【4-2】日本 AI事業者ガイドライン  ○ソフトロー
+───────────────────────────────────────────────────────────────────────────────
+■ 参照ドキュメント
+   AI事業者ガイドライン
+   第1.1版：令和7年（2025年）3月28日
+   第1.2版：令和8年（2026年）3月31日
+   総務省・経済産業省
+
+■ 章番号・項番号
+   第1部「AIとは」（用語の定義）
+
+■ 原文（日本語）
+   ＜AI＞
+   「現時点で確立された定義はなく（統合イノベーション戦略推進会議決定
+   『人間中心のAI社会原則』（2019年3月29日））、広義の人工知能の外延を
+   厳密に定義することは困難である。本ガイドラインにおけるAIは『AI
+   システム（以下に定義）』自体又は機械学習をするソフトウェア若しくは
+   プログラムを含む抽象的な概念とする。」
+
+   ＜AIシステム＞
+   「活用の過程を通じて様々なレベルの自律性をもって動作し学習する機能を
+   有するソフトウェアを要素として含むシステムとする（機械、ロボット、
+   クラウドシステム等）。」
+
+   （参考としてJIS X 22989:2023〔ISO/IEC 22989:2022に基づく〕及びOECD
+   AI Principles overviewの定義を併記）
+
+   ＜高度なAIシステム＞
+   「最先端の基盤モデル及び生成AIシステムを含む、最も高度なAIシステムを
+   指す。（広島AIプロセスでの定義を引用）」
+
+   ＜生成AI＞
+   「文章、画像、プログラム等を生成できるAIモデルにもとづくAIの総称を
+   指す。」
+
+■ 公式ソース
+   https://www.soumu.go.jp/main_content/001002576.pdf （第1.1版）
+   https://www.meti.go.jp/shingikai/mono_info_service/ai_shakai_jisso/pdf/20260331_1.pdf （第1.2版）
+
+■ 注記
+   非拘束的ソフトロー。ISO/JIS定義及びOECD定義を「参考として」併記する
+   多層的・引用型定義。AI開発者・AI提供者・AI利用者の3主体に区分。
+
+
+───────────────────────────────────────────────────────────────────────────────
+【4-3】シンガポール  ○ソフトロー
+───────────────────────────────────────────────────────────────────────────────
+■ 参照ドキュメント
+   IMDA・AI Verify Foundation
+   "Model AI Governance Framework for Generative AI"
+   2024年5月30日公表（生成AI向け拡張版）
+
+■ 章番号・項番号
+   Introduction（概念定義部）／脚注
+
+■ 原文（英語）
+   "Generative AI are AI models capable of generating text, images or
+   other media types. They learn the patterns and structure of their
+   input training data and generate new data with similar
+   characteristics."
+
+   ※「Traditional AI」（従来型AI）は、履歴データから知見を導出して
+   予測を行うAIモデル（ロジスティック回帰、決定木、条件付き確率場等）
+   と区別。
+
+■ 日本語訳（厳密訳）
+   「**生成AI（Generative AI）**とは、テキスト、画像その他の媒体形式を
+   生成し得るAIモデルをいう。入力された訓練データのパターン及び構造を
+   学習し、類似の特性を有する新たなデータを生成する。」
+
+■ 公式ソース
+   https://aiverifyfoundation.sg/wp-content/uploads/2024/06/Model-AI-Governance-Framework-for-Generative-AI-19-June-2024.pdf
+
+■ 注記
+   従来AIと生成AIを概念的に分離し、別個のフレームワークで規律。
+   9次元モデル（Accountability, Data, Trusted Development and
+   Deployment, Incident Reporting, Testing and Assurance, Security,
+   Content Provenance, Safety and Alignment R&D, AI for Public Good）。
+
+
+───────────────────────────────────────────────────────────────────────────────
+【4-4】中国  ◎拘束力あり（部門規則）
+───────────────────────────────────────────────────────────────────────────────
+■ 参照ドキュメント
+   生成式人工智能服务管理暂行办法
+   （生成AIサービス管理暫定弁法）
+   国家インターネット情報弁公室（CAC）等7部門
+   2023年7月10日公布／8月15日施行
+
+■ 章番号・項番号
+   第22条第1号（用語の定義）
+
+■ 原文（中国語）
+   「生成式人工智能技术，是指具有文本、图片、音频、视频等内容生成能力
+   的模型及相关技术。」
+
+■ 日本語訳（厳密訳）
+   「**生成式人工知能技術**とは、テキスト、画像、音声、動画等のコンテンツ
+   生成能力を有するモデル及び関連技術をいう。」
+
+■ 公式ソース
+   https://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm
+   https://www.gov.cn/zhengce/zhengceku/202307/content_6891752.htm
+
+■ 注記
+   世界初の生成AI特化型拘束的規制。
+   第2条で適用範囲を「中国境内の公衆」向け生成AIサービスに限定（域外
+   適用も第20条で間接管轄）。
+   第3条「包容審慎・分類分級監管」原則。
+   第4条第1号「社会主義核心価値観の遵守」が固有要素。
+   2025年末時点で748款の生成AIサービスが届出済み。
+
+
+───────────────────────────────────────────────────────────────────────────────
+【4-5】韓国 AI基本法  ◎拘束力あり（基本法）
+───────────────────────────────────────────────────────────────────────────────
+■ 参照ドキュメント
+   人工知能の発展及び信頼基盤造成に関する基本法
+   （AI基本法、法律第20676号）
+   2024年12月26日国会通過／2025年1月21日公布／2026年1月22日施行
+   ※アジア太平洋地域初の包括的AI法
+
+■ 章番号・項番号
+   第2条（定義）第1号・第2号
+
+■ 原文（CSET公式英訳）
+   "'Artificial Intelligence' refers to the electronic implementation
+   of human intellectual abilities, such as learning, reasoning,
+   perception, judgment, and understanding of language."
+
+   "'AI System' refers to an AI-based system that infers results
+   such as predictions, recommendations, and decisions that affect
+   the real and virtual environment for a given objective with
+   various levels of autonomy and adaptability."
+
+■ 日本語訳（厳密訳）
+   「**人工知能**とは、学習、推論、知覚、判断、言語の理解等の人間の知的
+   能力を電子的に具現したものをいう。」
+
+   「**人工知能システム**とは、所与の目的のために、様々な水準の自律性及び
+   適応性をもって、現実及び仮想の環境に影響を与える予測、推奨、
+   決定等の出力を推論する、人工知能に基盤を置くシステムをいう。」
+
+■ 公式ソース
+   https://aibasicact.kr/
+   https://cset.georgetown.edu/publication/south-korea-ai-law-2025/
+
+■ 注記
+   EU AI Actに類似するリスクベース＋「高影響AI（high-impact AI）」規律。
+   生成AI向けに第2条第3号で別途定義し、表示義務を課す。
+   19件の個別AI法案を統合した包括法。
+
+
+================================================================================
+第5部 その他補完調査（網羅性確保）
+================================================================================
+
+【5-1】米国NTIA
+   AI Accountability Policy Report（2024年3月）
+   → 15 U.S.C. § 9401(3)を全面採用。
+   https://www.ntia.gov/
+
+【5-2】米国OMB
+   M-24-10 "Advancing Governance, Innovation, and Risk Management for
+   Agency Use of AI"（2024年3月、EO 14179後改訂中）
+   → 連邦法定義に依拠。
+   https://www.whitehouse.gov/omb/
+
+【5-3】ブラジル
+   PL 2338/2023（AI Bill、上院通過、下院審議中）
+   → EU AI Act類似の定義（"sistema computacional, com graus
+   diferentes de autonomia"）。
+   https://www25.senado.leg.br/web/atividade/materias/-/materia/157233
+
+【5-4】米国カリフォルニア州
+   SB 1047（2024年知事拒否）／後継法案 AB 2013, SB 942
+   → 大規模モデル（covered models）：訓練計算量10^26 FLOPS以上等で限定。
+   https://leginfo.legislature.ca.gov/
+
+【5-5】GPAI（Global Partnership on AI）
+   2020年設立、2024年7月OECDと統合
+   → OECD定義を採用。
+   https://oecd.ai/
+
+【5-6】ASEAN
+   ASEAN Guide on AI Governance and Ethics（2024年2月）
+   → OECD定義に整合。
+   https://asean.org/book/asean-guide-on-ai-governance-and-ethics/
+
+【5-7】アフリカ連合（AU）
+   Continental AI Strategy（2024年7月採択）
+   → OECD定義を参照。
+   https://au.int/
+
+【5-8】国連 AI諮問機関
+   "Governing AI for Humanity"（最終報告書、2024年9月／GDC AI附属書）
+   → UNESCO定義をベースに、OECD定義との整合に言及。
+   https://www.un.org/ai-advisory-body
+
+
+================================================================================
+【総合分析】
+================================================================================
+
+───────────────────────────────────────────────────────────────────────────────
+1. 国際的な「AI定義」のOECD定義への収斂傾向
+───────────────────────────────────────────────────────────────────────────────
+
+2023年11月8日のOECD理事会改訂後、以下の5要素を組み合わせた定義が、
+事実上の国際標準（de facto global standard）として確立した：
+
+  ① machine-based system（機械を基盤とするシステム）
+  ② infer（推論する）
+  ③ physical or virtual environments（物理的環境又は仮想環境）
+  ④ varying levels of autonomy（様々な水準の自律性）
+  ⑤ adaptiveness after deployment（配備後の適応性）
+
+具体的には以下の文書が、この5要素を高い文言一致率で踏襲：
+
+  ・EU AI Act 第3条(1)（2024年6月）
+    → OECD改訂版の文言をほぼ逐語的に継受。
+  ・欧州評議会 AI条約 第2条（2024年5月）
+    → OECD定義と実質同一（"can"→"may"の微差のみ）。
+  ・G7広島AIプロセス国際指針（2023年10月）
+    → OECD AI原則上に構築することを明示。
+  ・韓国AI基本法 第2条（2025年1月）
+    → OECD・EU AI Act 系統の文言を採用。
+
+【収斂の戦略的意図】
+  通商障壁化を防ぐための法的相互運用性（legal interoperability）の確保。
+  OECDが2024年5月の「Explanatory Memorandum」で5要素のドリフト幅を
+  明示したことで、各国の追従コストが大幅に低下した。
+
+
+───────────────────────────────────────────────────────────────────────────────
+2. 独自解釈・重点を持つ国・地域の相違点
+───────────────────────────────────────────────────────────────────────────────
+
+【米国】
+  法定定義（15 USC 9401(3)）は2020年版OECD定義に依拠し、
+  "varying levels of autonomy/adaptiveness"の概念を欠く。
+  2025年のEO 14179・AI Action Planは、NIST RMF からDEI・気候変動・
+  ミスインフォメーションへの言及削除を指示し、
+  「イノベーション最優先・反規制」へ大幅転換。
+  →政策的含意：EU/韓国とのデジタル通商交渉での非整合リスクが上昇。
+
+【英国】
+  単一の法的定義を採用せず、"adaptivity"と"autonomy"の2機能的特性で
+  AIを画定。プリンシプル・ベースで既存規制当局を活用する分野別
+  アプローチ。
+  →政策的含意：法的確実性は犠牲にしつつ、技術陳腐化リスクを最小化。
+
+【日本】
+  二重構造：
+   ① AI推進法（拘束力／第2条で「人工知能関連技術」を極めて広範に定義、
+     機械学習・LLM・電子透かし・ガードレールまで包含）
+   ② AI事業者ガイドライン（ソフトロー／ISO・OECD定義を「参考として」
+     併記する引用型）
+  リスクベース＋イノベーション促進のバランス。
+  →政策的含意：EU型ハードローと米国型ソフトローの中間道。
+  広島AIプロセスを通じた国際リーダーシップ確保戦略。
+
+【シンガポール】
+  「従来AI」と「生成AI」を概念的に分離し、別個のフレームワークで規律。
+  9次元モデル（Accountability・Data・Trusted Development等）。
+  →政策的含意：規範的拘束力ではなく自主的ベストプラクティスとして
+  国際輸出可能性を追求。
+
+【中国】
+  生成AIに特化した定義（モデル＋関連技術）。実体的AI定義を欠き、
+  「サービス提供者」を介した間接的領域内規律。
+  社会主義的核心価値観の遵守義務（第4条）が固有要素。
+  →政策的含意：価値観条項により、中国国内向けと海外向けで
+  実質的に異なる製品を要する可能性。
+
+【欧州評議会】
+  OECD定義を採用しつつ、人権・民主主義・法の支配の3軸での影響評価
+  義務（第15条）を独自要件として付加。
+  →政策的含意：EU AI Actが製品安全規制に近いのに対し、
+  人権基盤的アプローチを補完。
+
+【UNESCO】
+  「単一定義を提示しない」と明示的に宣言。
+  倫理的関連性に基づくfeature-based描写。
+  →政策的含意：技術中立性の極致だが、法的執行可能性を持たない倫理勧告。
+
+
+───────────────────────────────────────────────────────────────────────────────
+3. 生成AI（GPAI／Foundation Models）登場による定義修正
+───────────────────────────────────────────────────────────────────────────────
+
+2022年11月のChatGPT公開以降、各定義は以下の修正を経た：
+
+【1】OECD（2023年11月改訂）
+  ・旧定義の「predictions, recommendations, or decisions」に
+   「content（コンテンツ）」を追加 ← 生成AI出力を捕捉する決定的修正
+  ・「real environments」を「physical environments」に置換
+   ← メタバース・仮想環境の射程を明確化
+  ・「after deployment」を追加 ← 配備後の継続学習を反映
+
+【2】EU AI Act
+  ・当初草案（2021年）にはなかった
+   第3条(63)「汎用AIモデル（GPAI Model）」定義を最終版で追加
+  ・第51条で「システミックリスクを伴うGPAIモデル」を10^25 FLOPS以上の
+   累積訓練計算量で画定し、段階的規律（two-tier）を導入
+
+【3】G7広島AIプロセス
+  ・そもそも生成AIガバナンスを目的に2023年5月起動
+  ・「advanced AI systems」を「最先端の基盤モデル及び生成AIシステム」
+   と定義し、従来AIから峻別
+
+【4】シンガポール GenAI Framework（2024年5月）
+  ・従来のModel AI Governance Framework（2020年第2版）を
+   生成AI専用の別フレームワークで拡張
+  ・ハルシネーション、著作権侵害、価値整合の新リスクを9次元で正面定義
+
+【5】中国生成AI暫行弁法（2023年7月）
+  ・世界初の生成AI特化型拘束的規制
+  ・第22条で「コンテンツ生成能力を有するモデル及び関連技術」と限定的定義
+
+【6】NIST AI RMF Generative AI Profile（NIST AI 600-1、2024年7月）
+  ・RMF 1.0を生成AIに特化して拡張するプロファイルを別途公表
+  ・CBRN情報、データ汚染、ホモジナイゼーション等の12種の固有リスクを特定
+
+【7】日本 AI推進法（2025年6月）
+  ・第2条の定義に基盤モデル・生成AIを意図的に包含する答弁を国会で確認
+
+【8】韓国 AI基本法（2025年1月）
+  ・第2条で「生成型AI」を別途定義し、表示義務（labeling）を課す
+
+【9】欧州評議会 AI条約（2024年5月）
+  ・「AIシステム」の単一定義を維持しつつ、ライフサイクル全体での
+   影響評価義務を要求し、生成AIの動的性質を間接的に捕捉
+
+
+───────────────────────────────────────────────────────────────────────────────
+補足：定義の拘束力区分（2026年5月時点）
+───────────────────────────────────────────────────────────────────────────────
+
+【拘束力のある定義（ハードロー）】
+  ・EU AI Act
+  ・欧州評議会 AI条約
+  ・中国 生成AI暫行弁法
+  ・韓国 AI基本法
+  ・日本 AI推進法
+  ・米国 15 USC 9401(3)
+  ・カナダ Directive on Automated Decision-Making
+
+【ソフトロー定義】
+  ・OECD勧告
+  ・UNESCO勧告
+  ・G7広島AIプロセス
+  ・NIST AI RMF
+  ・英国白書
+  ・シンガポール フレームワーク
+  ・日本 AI事業者ガイドライン
+  ・ASEAN指針
+
+【2026年5月時点の最新動向】
+  ・米国：2025年7月「AI Action Plan」によりNIST AI RMFの改訂を指示中
+   （DEI・misinformation・climate change の言及削除）
+  ・EU AI Act：GPAIに関する義務は2025年8月2日から段階的適用開始
+  ・日本AI推進法：2025年9月1日全面施行、AI戦略本部 2025年9月12日初会合
+  ・韓国AI基本法：2026年1月22日施行済み
+
+
+================================================================================
+（終）
+本資料は2026年5月10日時点の公式情報に基づく。
+各機関の最新版・改訂状況については、公式ソースリンクを参照のこと。
+================================================================================
+
+【検証履歴】
+本資料は2026年5月10日に公式情報源（OECD、UNESCO、ISO、欧州官報、
+米国法典、日本e-Gov・内閣府、CSET、CAC、IMDA、Council of Europe等）
+との照合検証を実施し、以下の修正を行った：
+  ・カナダ自動意思決定指令の改訂日を確認可能な範囲に修正
+  ・韓国AI基本法のCSET公式英訳引用を実際のCSET公表訳と完全一致に修正
+  ・上記英訳修正に伴う日本語厳密訳の調整
+  ・シンガポール GenAI Framework のPDF URLを最新版（2024年6月19日版）に更新
